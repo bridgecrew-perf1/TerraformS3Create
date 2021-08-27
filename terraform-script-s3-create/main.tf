@@ -8,13 +8,3 @@ module "s3" {
     source = "/"
 }
 
-
-leg extension
-Angled Leg Press
-Hamstring
-Dumble Lunges
-
-Incline Reverse Crunch
-ELbow to knee twist
-leg lift
-Bicycle kick
